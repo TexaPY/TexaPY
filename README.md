@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1000&color=F70808&random=true&width=435&lines=Electrical+Electronics+Engineer" alt="Typing SVG" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=TexaCORP&icon=7&color=0)](https://github.com/TexaCORP)<br>
+[![](https://visitcount.itsvg.in/api?id=TexaPY&icon=7&color=0)](https://github.com/TexaPY)<br>
 
 # Website:
 
@@ -72,10 +72,10 @@ https://texa.anlayana.com
        
 # 📊 GitHub Stats:
 
-![TeXa's Github Stats](https://github-readme-stats.vercel.app/api?username=TexaCORP&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TexaCORP&theme=radical&hide_border=false)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexaCORP&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+![TeXa's Github Stats](https://github-readme-stats.vercel.app/api?username=TexaPY&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TexaPY&theme=radical&hide_border=false)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TexaPY&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=TexaCORP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TexaPY&theme=radical&no-frame=false&no-bg=false&margin-w=4)
