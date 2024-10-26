@@ -16,7 +16,7 @@ https://texa.anlayana.com
 
 ### Discord:
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/758298518494117949](https://lanyard.cnrad.dev/api/758298518494117949?theme=dark&borderRadius=30px&showDisplayName=true&idleMessage=Come%20back%20to%20me,%20my%20little%20butterfly.&"></p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/758298518494117949?theme=dark&borderRadius=30px&showDisplayName=true&idleMessage=Come%20back%20to%20me,%20my%20little%20butterfly.&"></p>
 
 # 💻 Tech Stack:
 
