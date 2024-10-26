@@ -12,8 +12,7 @@ https://texa.anlayana.com
 
 # ☕ Social:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jPgpfyAyeU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullah.tambas) [![Patreon](https://img.shields.io/badge/Patreon-white?style=flat&logo=patreon&labelColor=%23000000&color=%23181717)](https://patreon.com/user?u=92673895&utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-tambaş-4b30022b3) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@texa.inc)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jPgpfyAyeU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullah.tambas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-tambaş-4b30022b3) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@texa.inc)
 
 ### Discord:
 
@@ -24,7 +23,7 @@ https://texa.anlayana.com
 <details>
   <summary>Languages</summary>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/C-red?style=flat-square&logo=c&logoColor=white&labelColor=%23A8B9CC&color=%23A8B9CC)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/C-red?style=for-the-badge&logo=c&logoColor=white&labelColor=%23A8B9CC&color=%23A8B9CC)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -34,7 +33,7 @@ https://texa.anlayana.com
 <details>
   <summary>Softwares</summary>
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-red?style=flat-square&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=%23171515) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-red?style=flat-square&logo=adobepremierepro&logoColor=white&labelColor=%239999FF&color=%23171515) ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-red?style=flat-square&logo=adobeaftereffects&logoColor=white&labelColor=%239999FF&color=%23171515)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-red?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=%23171515) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-red?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=%239999FF&color=%23171515) ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-red?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=%239999FF&color=%23171515)
 
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -46,7 +45,7 @@ https://texa.anlayana.com
 
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-red?style=flat-square&logo=Replit&logoColor=%23FF7F00&logoSize=auto&labelColor=%23171515&color=%23171515)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-red?style=for-the-badge&logo=Replit&logoColor=%23FF7F00&logoSize=auto&labelColor=%23171515&color=%23171515)
 
 </details>
 
@@ -57,17 +56,17 @@ https://texa.anlayana.com
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=ubuntu&logoColor=white&labelColor=%23E95420&color=%23E95420)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-red?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E95420&color=%23E95420)
 
-![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-red?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=%23A22846&color=%23A22846)
+![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-red?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=%23A22846&color=%23A22846)
 
 </details>
 
 <details>
   <summary>SBC - Single Board Computer</summary>
   
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-red?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=%2303234B&color=%2303234B)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NVIDIA Jetson](https://img.shields.io/badge/Nvidia-Jetson?style=for-the-badge&logo=NVIDIA&label=Jetson) ![LattePanda](https://img.shields.io/badge/LattePanda-%23795649?style=flat-square&logoColor=white&label=S%C4%B0GMA&labelColor=%23C70D2C)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-red?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=%2303234B&color=%2303234B)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NVIDIA Jetson](https://img.shields.io/badge/Nvidia-Jetson?style=for-the-badge&logo=NVIDIA&label=Jetson) ![LattePanda](https://img.shields.io/badge/LattePanda-%23795649?style=for-the-badge&logoColor=white&label=S%C4%B0GMA&labelColor=%23C70D2C)
 
 </details>
        
