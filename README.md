@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1000&color=F70808&random=true&width=435&lines=Electrical+Electronics+Engineer" alt="Typing SVG" /></a>
+    <a href="https://texa.anlayana.com"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1000&color=F70808&random=true&width=435&lines=Electrical+Electronics+Engineer" alt="Typing SVG" /></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=TexaPY&icon=7&color=0)](https://github.com/TexaPY)<br>
