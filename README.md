@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://texa.anlayana.com"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1000&color=F70808&random=true&width=435&lines=Electrical+Electronics+Engineer" alt="Typing SVG" /></a>
 </p>
-![GİGİ](https://img.shields.io/badge/G%C4%B0G%C4%B0-%23E71D29?style=plastic&logo=undertale&link=https%3A%2F%2Ftexa.anlayana.com%2Fgigi)
+[![GİGİ](https://img.shields.io/badge/G%C4%B0G%C4%B0-%23E71D29?style=plastic&logo=undertale)](https://texa.anlayana.com/gigi)
 
 [![](https://visitcount.itsvg.in/api?id=TexaPY&icon=7&color=0)](https://github.com/TexaPY) [![wakatime](https://wakatime.com/badge/user/acdfe8bc-820c-4aba-86f9-b17c69dcc6ec.svg)](https://wakatime.com/@acdfe8bc-820c-4aba-86f9-b17c69dcc6ec) <br>
 
