@@ -39,6 +39,9 @@ https://texa.anlayana.com
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-red?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=%23171515) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-red?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=%239999FF&color=%23171515) ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-red?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=%239999FF&color=%23171515)
 
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23005386?style=for-the-badge&logo=dassaultsystemes&labelColor=black) ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E51050?style=for-the-badge&logo=autocad) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF8000?style=for-the-badge&logo=autodesk&labelColor=%23000000)
+
+
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
