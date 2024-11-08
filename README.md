@@ -46,7 +46,8 @@ https://texa.anlayana.com
 
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-red?style=for-the-badge&logo=Replit&logoColor=%23FF7F00&logoSize=auto&labelColor=%23171515&color=%23171515)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E?style=for-the-badge&logo=amazonwebservices
+) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-red?style=for-the-badge&logo=Replit&logoColor=%23FF7F00&logoSize=auto&labelColor=%23171515&color=%23171515)
 
 </details>
 
