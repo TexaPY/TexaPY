@@ -2,7 +2,7 @@
     <a href="https://texa.anlayana.com"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1000&color=F70808&random=true&width=435&lines=Electrical+Electronics+Engineer" alt="Typing SVG" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=TexaPY&icon=7&color=0)](https://github.com/TexaPY)<br> [![wakatime](https://wakatime.com/badge/user/acdfe8bc-820c-4aba-86f9-b17c69dcc6ec.svg)](https://wakatime.com/@acdfe8bc-820c-4aba-86f9-b17c69dcc6ec) <br>
+[![](https://visitcount.itsvg.in/api?id=TexaPY&icon=7&color=0)](https://github.com/TexaPY) [![wakatime](https://wakatime.com/badge/user/acdfe8bc-820c-4aba-86f9-b17c69dcc6ec.svg)](https://wakatime.com/@acdfe8bc-820c-4aba-86f9-b17c69dcc6ec) <br>
 
 # Website:
 
