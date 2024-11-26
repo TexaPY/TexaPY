@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://texa.anlayana.com"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1000&color=F70808&random=true&width=435&lines=Electrical+Electronics+Engineer" alt="Typing SVG" /></a>
+    <a href="https://texa.anlayana.com"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1000&color=F70808&random=true&width=435&lines=I+need+hosting" alt="Typing SVG" /></a>
 </p>
 
 
