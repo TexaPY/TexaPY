@@ -4,7 +4,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=TexaPY&icon=7&color=0)](https://github.com/TexaPY) [![wakatime](https://wakatime.com/badge/user/acdfe8bc-820c-4aba-86f9-b17c69dcc6ec.svg)](https://wakatime.com/@acdfe8bc-820c-4aba-86f9-b17c69dcc6ec) [![GİGİ](https://img.shields.io/badge/G%C4%B0G%C4%B0-%23E71D29?style=plastic&logo=undertale)](https://texa.anlayana.com/gigi)  <br>
+[![](https://visitcount.itsvg.in/api?id=TexaPY&icon=7&color=0)](https://github.com/TexaPY) [![wakatime](https://wakatime.com/badge/user/acdfe8bc-820c-4aba-86f9-b17c69dcc6ec.svg)](https://wakatime.com/@acdfe8bc-820c-4aba-86f9-b17c69dcc6ec)   <br>
 
 # Website:
 
